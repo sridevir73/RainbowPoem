@@ -1,0 +1,8 @@
+Violet
+Indigo
+Brown
+Green
+Yellow
+Orange
+Red
+These are the colors in the rainbow.
